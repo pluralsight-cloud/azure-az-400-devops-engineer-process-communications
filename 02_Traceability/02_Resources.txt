@@ -1,31 +1,24 @@
-Clip: 04
-Choosing the right version control for your project - https://learn.microsoft.com/en-us/azure/devops/repos/tfvc/comparison-git-tfvc?view=azure-devops
+Work Items:
+ - Choosing the right version control for your project - https://learn.microsoft.com/en-us/azure/devops/repos/tfvc/comparison-git-tfvc?view=azure-devops
+ - What is Agile? - https://learn.microsoft.com/en-us/devops/plan/what-is-agile
+ - What is Scrum? - https://learn.microsoft.com/en-us/devops/plan/what-is-scrum
 
-What is Agile? - https://learn.microsoft.com/en-us/devops/plan/what-is-agile
+Using Azure Boards Demo:
+ - Plan and track work in Azure Boards - https://learn.microsoft.com/en-us/azure/devops/boards/get-started/plan-track-work?view=azure-devops&tabs=agile-process
 
-What is Scrum? - https://learn.microsoft.com/en-us/devops/plan/what-is-scrum
+Assigning Work Items Demo:
+ - Define iteration paths (sprints) and configure team iterations - https://learn.microsoft.com/en-us/azure/devops/organizations/settings/set-iteration-paths-sprints?view=azure-devops&tabs=browser
+ - Assign backlog items to a sprint in Azure Boards - https://learn.microsoft.com/en-us/azure/devops/boards/sprints/assign-work-sprint?view=azure-devops
+ - GitHub - About iteration fields - https://docs.github.com/en/issues/planning-and-tracking-with-projects/understanding-fields/about-iteration-fields
 
-Clip: 05
-Plan and track work in Azure Boards - https://learn.microsoft.com/en-us/azure/devops/boards/get-started/plan-track-work?view=azure-devops&tabs=agile-process
+Work Item Traceability:
+ - Track dependencies by using Delivery Plans - https://learn.microsoft.com/en-us/azure/devops/boards/plans/track-dependencies?view=azure-devops
+ - GitHub Marketplace - Azure Boards - https://github.com/marketplace/azure-boards
 
-Clip: 06
-Define iteration paths (sprints) and configure team iterations - https://learn.microsoft.com/en-us/azure/devops/organizations/settings/set-iteration-paths-sprints?view=azure-devops&tabs=browser
+Bug Traceability:
+ - Define, capture, triage, and manage software bugs in Azure Boards - https://learn.microsoft.com/en-us/azure/devops/boards/backlogs/manage-bugs?view=azure-devops
+ - Show bugs on backlogs and boards - https://learn.microsoft.com/en-us/azure/devops/organizations/settings/show-bugs-on-backlog?view=azure-devops
+ - Bugs, issues, and risks in Azure Boards - https://learn.microsoft.com/en-us/azure/devops/boards/work-items/guidance/cmmi/guidance-bugs-issues-risks-field-reference-cmmi?view=azure-devops
 
-Assign backlog items to a sprint in Azure Boards - https://learn.microsoft.com/en-us/azure/devops/boards/sprints/assign-work-sprint?view=azure-devops
-
-GitHub - About iteration fields - https://docs.github.com/en/issues/planning-and-tracking-with-projects/understanding-fields/about-iteration-fields
-
-Clip: 07
-Track dependencies by using Delivery Plans - https://learn.microsoft.com/en-us/azure/devops/boards/plans/track-dependencies?view=azure-devops
-
-GitHub Marketplace - Azure Boards - https://github.com/marketplace/azure-boards
-
-Clip: 10
-Define, capture, triage, and manage software bugs in Azure Boards - https://learn.microsoft.com/en-us/azure/devops/boards/backlogs/manage-bugs?view=azure-devops
-
-Show bugs on backlogs and boards - https://learn.microsoft.com/en-us/azure/devops/organizations/settings/show-bugs-on-backlog?view=azure-devops
-
-Bugs, issues, and risks in Azure Boards - https://learn.microsoft.com/en-us/azure/devops/boards/work-items/guidance/cmmi/guidance-bugs-issues-risks-field-reference-cmmi?view=azure-devops
-
-Clip: 11
-What is Azure Test Plans? - https://learn.microsoft.com/en-us/azure/devops/test/overview?view=azure-devops
+Quality Traceability:
+ - What is Azure Test Plans? - https://learn.microsoft.com/en-us/azure/devops/test/overview?view=azure-devops
