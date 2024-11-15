@@ -1,0 +1,18 @@
+Importance of Metrics in DevOps:
+ - Out Of Box widget catalog - https://learn.microsoft.com/en-us/azure/devops/report/dashboards/widget-catalog?view=azure-devops
+ - Extensions for Azure DevOps - https://marketplace.visualstudio.com/azuredevops
+ - Add a dashboard widget - https://learn.microsoft.com/en-us/azure/devops/extend/develop/add-dashboard-widget?view=azure-devops
+
+Configuring Dashboards:
+ - Track your work by using managed queries in Azure Boards - https://learn.microsoft.com/en-us/azure/devops/boards/queries/about-managed-queries?view=azure-devops
+
+Project Planning Metrics:
+ - View and configure a Cumulative Flow Diagram - https://learn.microsoft.com/en-us/azure/devops/report/dashboards/cumulative-flow?view=azure-devops
+ - Configure a burndown or burnup widget - https://learn.microsoft.com/en-us/azure/devops/report/dashboards/configure-burndown-burnup-widgets?view=azure-devops
+ - View and configure team velocity - https://learn.microsoft.com/en-us/azure/devops/report/dashboards/team-velocity?view=azure-devops&tabs=in-context
+ - Lead Time and Cycle Time widgets - https://learn.microsoft.com/en-us/azure/devops/report/dashboards/cycle-time-and-lead-time?view=azure-devops
+
+
+
+
+
