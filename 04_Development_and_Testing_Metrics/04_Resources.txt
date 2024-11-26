@@ -1,0 +1,24 @@
+Development Metrics:
+ - Design effective dashboards in Azure DevOps - https://learn.microsoft.com/en-us/azure/devops/report/dashboards/dashboard-focus?view=azure-devops
+ - Add charts to a dashboard - https://learn.microsoft.com/en-us/azure/devops/report/dashboards/add-charts-to-dashboard?view=azure-devops
+ - Deployment status - https://learn.microsoft.com/en-us/azure/devops/test/overview?view=azure-devops#deployment-status
+ - Azure Repos widgets - https://learn.microsoft.com/en-us/azure/devops/report/dashboards/widget-catalog?view=azure-devops#azure-repos-widgets
+
+Using Metrics to Identify Bottlenecks:
+ - Pipeline reports - https://learn.microsoft.com/en-us/azure/devops/pipelines/reports/pipelinereport?view=azure-devops
+
+Testing Metrics:
+ - Azure Test Plans widgets - https://learn.microsoft.com/en-us/azure/devops/report/dashboards/widget-catalog?view=azure-devops#azure-test-plans-widgets
+ - Test Analytics - https://learn.microsoft.com/en-us/azure/devops/pipelines/test/test-analytics?view=azure-devops
+ - Configure the Test Results Trend (Advanced) widget - https://learn.microsoft.com/en-us/azure/devops/report/dashboards/configure-test-results-trend?view=azure-devops
+ - Test failures  - https://learn.microsoft.com/en-us/azure/devops/pipelines/test/test-analytics?view=azure-devops#test-failures
+ - Track test status - https://learn.microsoft.com/en-us/azure/devops/test/track-test-status?toc=%2Fazure%2Fdevops%2Freport%2Ftoc.json&view=azure-devops
+
+Performance Testing Metrics:
+ - Recommendations for performance testing - https://learn.microsoft.com/en-us/azure/well-architected/performance-efficiency/performance-test
+ - Azure Monitor Insights overview - https://learn.microsoft.com/en-us/azure/azure-monitor/insights/insights-overview
+ - Azure Monitor Metrics aggregation and display explained - https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/metrics-aggregation-explained
+ - Azure Monitor monitoring data reference - https://learn.microsoft.com/en-us/azure/azure-monitor/monitor-azure-monitor-reference
+
+
+
