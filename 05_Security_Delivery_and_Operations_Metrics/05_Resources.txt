@@ -1,0 +1,15 @@
+DevOps Security:
+ - Improve DevOps environment security posture - https://learn.microsoft.com/en-us/azure/defender-for-cloud/concept-devops-environment-posture-management-overview
+ - Securing Azure Pipelines - https://learn.microsoft.com/en-us/azure/devops/pipelines/security/overview?view=azure-devops
+
+Security Metrics:
+ - Overview of Microsoft Defender for Cloud DevOps security - https://learn.microsoft.com/en-us/azure/defender-for-cloud/defender-for-devops-introduction
+ - DevOps Security workbook - https://learn.microsoft.com/en-us/azure/defender-for-cloud/custom-dashboards-azure-workbooks#devops-security-workbook
+ 
+Release Management Metrics:
+ - Azure Pipelines widgets - https://learn.microsoft.com/en-us/azure/devops/report/dashboards/widget-catalog?view=azure-devops#azure-pipelines-widgets
+ - Add a release summary chart - https://learn.microsoft.com/en-us/azure/devops/report/dashboards/add-charts-to-dashboard?view=azure-devops#add-a-release-summary-chart
+ - Requirements traceability - https://learn.microsoft.com/en-us/azure/devops/pipelines/test/requirements-traceability?view=azure-devops
+
+Tracking Feature Usage Post-deployment:
+ - Usage analysis with Application Insight - https://learn.microsoft.com/en-us/azure/azure-monitor/app/usage
