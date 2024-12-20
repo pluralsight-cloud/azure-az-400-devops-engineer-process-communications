@@ -1,0 +1,38 @@
+Azure DevOps Wikis:
+ - About wikis, READMEs, and Markdown - https://learn.microsoft.com/en-us/azure/devops/project/wiki/about-readme-wiki?view=azure-devops
+ - Create a wiki for your project - https://learn.microsoft.com/en-us/azure/devops/project/wiki/wiki-create-repo?view=azure-devops&tabs=browser
+ - Provisioned wiki vs. published as code wiki - https://learn.microsoft.com/en-us/azure/devops/project/wiki/provisioned-vs-published-wiki?view=azure-devops
+ - Publish a Git repo to a wiki - https://learn.microsoft.com/en-us/azure/devops/project/wiki/publish-repo-to-wiki?view=azure-devops&tabs=browser
+ - Add and edit wiki pages - https://learn.microsoft.com/en-us/azure/devops/project/wiki/add-edit-wiki?view=azure-devops&tabs=browser
+ - Wiki files and file structure - https://learn.microsoft.com/en-us/azure/devops/project/wiki/wiki-file-structure?view=azure-devops
+ - Manage wikis with the CLI - https://learn.microsoft.com/en-us/azure/devops/project/wiki/manage-wikis?view=azure-devops
+
+Markdown Syntax:
+ - Use Markdown in Azure DevOps - https://learn.microsoft.com/en-us/azure/devops/project/wiki/markdown-guidance?view=azure-devops
+
+Mermaid Syntax:
+ - Add Mermaid diagrams to a wiki page - https://learn.microsoft.com/en-us/azure/devops/project/wiki/markdown-guidance?view=azure-devops#add-mermaid-diagrams-to-a-wiki-page
+ - Mermaid Documentation - https://mermaid.js.org/
+
+Release Notes:
+ - REST API versioning - https://learn.microsoft.com/en-us/azure/devops/integrate/concepts/rest-api-versioning?view=azure-devops
+ - Publish NuGet packages with Azure Pipelines - https://learn.microsoft.com/en-us/azure/devops/pipelines/artifacts/nuget?view=azure-devops&tabs=yaml
+ - Package versioning - https://learn.microsoft.com/en-us/azure/devops/pipelines/artifacts/universal-packages?view=azure-devops&tabs=yaml#package-versioning
+ - Publish and download Universal Packages in Azure Artifacts - https://learn.microsoft.com/en-us/azure/devops/artifacts/quickstarts/universal-packages?view=azure-devops&tabs=Windows
+ 
+Git History:
+ - Understand Git history - https://learn.microsoft.com/en-us/devops/develop/git/understand-git-history
+ - Understand Git history simplification - https://learn.microsoft.com/en-us/azure/devops/repos/git/git-log-history-simplification?view=azure-devops
+ - How dates work in Git - https://learn.microsoft.com/en-us/azure/devops/repos/git/git-dates?view=azure-devops
+
+Understanding Webhooks:
+ - Integrate with service hooks - https://learn.microsoft.com/en-us/azure/devops/service-hooks/overview?toc=%2Fazure%2Fdevops%2Fmarketplace-extensibility%2Ftoc.json&view=azure-devops
+ - Webhooks - https://learn.microsoft.com/en-us/azure/devops/service-hooks/services/webhooks?view=azure-devops
+
+Webhook Integration:
+ - Use Azure Boards in Microsoft Teams - https://learn.microsoft.com/en-us/azure/devops/boards/integrations/boards-teams?toc=%2Fazure%2Fdevops%2Fmarketplace-extensibility%2Ftoc.json&view=azure-devops
+ - Use Azure Repos with Microsoft Teams - https://learn.microsoft.com/en-us/azure/devops/repos/integrations/repos-teams?toc=%2Fazure%2Fdevops%2Fmarketplace-extensibility%2Ftoc.json&view=azure-devops
+ - Integrate Azure Pipelines with Microsoft Teams - https://learn.microsoft.com/en-us/azure/devops/pipelines/integrations/microsoft-teams?toc=%2Fazure%2Fdevops%2Fmarketplace-extensibility%2Ftoc.json&view=azure-devops
+ - Azure DevOps integration with Microsoft Teams - https://learn.microsoft.com/en-us/azure/devops/service-hooks/services/teams?view=azure-devops
+ - GitHub + Microsoft Teams Integration - https://github.com/integrations/microsoft-teams/blob/master/Readme.md
+ - GitHub for Teams App - https://appsource.microsoft.com/en-us/product/office/wa200002077?tab=overview
